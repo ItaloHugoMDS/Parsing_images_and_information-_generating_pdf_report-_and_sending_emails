@@ -8,7 +8,7 @@ In one the final projects, a file containing information and data was provided. 
 
 2 - Upload those images to a webserver using webservice API endpoint and HTTP requests methods.
 
-3 - Go through a set of files extracting information and generating a JSON file which would then be uploaded to another endpoint of a website, containing the informations and the images previously uploaded to the server.
+3 - Go through a set of files extracting information and generate a JSON file which would then be uploaded to another endpoint of a website, containing the informations and the images previously uploaded to the server.
 
 4 - Generate a PDF report file and send it through email using SMTP connection.
 
