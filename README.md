@@ -1,4 +1,4 @@
-# Parsing_images_and_information-_generating_pdf_report-_and_sending_emails
+# Parsing images and information, generating pdf report, and sending emails  
 
 This is a skill showcase from a prompt exercise during the "Google IT Automation with Python" certificate.
 
