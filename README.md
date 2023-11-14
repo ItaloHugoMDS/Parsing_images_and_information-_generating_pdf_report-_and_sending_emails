@@ -12,7 +12,7 @@ In one the final projects, a file containing information and data was provided. 
 
 4 - Generate a PDF report file and send it through email using SMTP connection.
 
-Some of the files present in this repository, such as the data sets, are from the Google platform on Coursera. But the implementation of the concepts and the python codes are original solutions created, tested and implement by the owner of the repository.
+Some of the files present in this repository, such as the data sets, are from the Google platform on Coursera. But the implementation of the concepts and the python codes are original solutions created, tested, and implement by the owner of the repository.
 
 The steps which the project was executed were:
 
